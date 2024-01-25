@@ -2,3 +2,14 @@
 .idea
 *iml
 .DS_Store
+
+# vim swap
+[._]*.sw[a-p]
+
+# install pre-requirement
+googleapis-common-protos-*
+google
+protobuf-all-*
+protobuf-*
+META-INF
+
